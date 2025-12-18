@@ -84,7 +84,7 @@ CONTROL-BIBLIOTECA/
 ## 🚀 Ejecución Local
 
 ```bash
-git clone https://github.com/tuusuario/control-biblioteca.git
+git clone https://github.com/AbelMDev/Control-Biblioteca
 cd CONTROL-BIBLIOTECA
 
 python -m venv venv
